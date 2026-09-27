@@ -1,7 +1,9 @@
-name,job,salary
-Jades,Data Engineer,R1 777 400
+name,job,salary,
+,Data Engineer,RRRRR
 Lazola,System Ingration Dev,R1 549 000
-Malachi,TechLead,R1 427 000
+Malachi,,R1 427 000
 Cristiano,Mobile Dev,R2 500 000
 Mbappe,Cyber Security Analyst,R1 700 000
 Verstappen,formula-1 Race Driver,R1 000 500
+Verstappen,formula-1 Race Driver,R1 000 500
+
